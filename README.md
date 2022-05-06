@@ -1,7 +1,7 @@
 //Exercicio-Triangulo
-Formas de Triangulo
-#include <stdlib.h>
+Formas de Triangulo//
 
+#include <stdlib.h>
 int main (){
     int a,b,c;
     
