@@ -1,4 +1,4 @@
-# Exercicio-Triangulo
+//Exercicio-Triangulo
 Formas de Triangulo
 #include <stdlib.h>
 
